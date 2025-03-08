@@ -6,9 +6,9 @@ A recreation of Scarlet Monastery for WOW Alpha (Upgraded for Mythic)
 | ID | Unit Name | Done |
 | - | - | - |
 | 601000 | Scarlet Adept | X |
-| 601001 | Scarlet Beastmaster |  |
-| 601002 | Scarlet Centurion | |
-| 601003 | Scarlet Champion | |
+| 601001 | Scarlet Beastmaster | X |
+| 601002 | Scarlet Centurion | X |
+| 601003 | Scarlet Champion | X |
 | 601004 | Scarlet Chaplain | |
 | 601005 | Scarlet Conjuror | |
 | 601006 | Scarlet Defender | |
