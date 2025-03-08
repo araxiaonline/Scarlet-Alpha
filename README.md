@@ -25,7 +25,7 @@ A recreation of Scarlet Monastery for WOW Alpha (Upgraded for Mythic)
 | 602017 | Scarlet Mage | X |
 | 602018 | Scarlet Magus | X |
 | 602019 | Scarlet Monk | X |
-| 602020 | Scarlet Myrmidon | |
+| 602020 | Scarlet Myrmidon | X |
 | 602021 | Scarlet Paladin | |
 | 602022 | Scarlet Scryer | |
 | 602023 | Scarlet Sentry | |
