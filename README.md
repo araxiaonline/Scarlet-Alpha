@@ -3,9 +3,9 @@ A recreation of Scarlet Monastery for WOW Alpha (Upgraded for Mythic)
 
 
 # NPC ID Numbers
-| ID | Unit Name |
+| ID | Unit Name | Done |
 | - | - |
-| 601000 | Scarlet Adept |
+| 601000 | Scarlet Adept | X |
 | 601001 | Scarlet Beastmaster |
 | 601002 | Scarlet Centurion |
 | 601003 | Scarlet Champion |
