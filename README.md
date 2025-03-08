@@ -13,7 +13,7 @@ A recreation of Scarlet Monastery for WOW Alpha (Upgraded for Mythic)
 | 601005 | Scarlet Conjuror | X |
 | 601006 | Scarlet Defender | X |
 | 601007 | Scarlet Diviner | X |
-| 601008 | Scarlet Evoker | |
+| 601008 | Scarlet Evoker | X |
 | 601009 | Scarlet Gallant | |
 | 601010 | Scarlet Guardsman |
 | 601011 | Scarlet Hound |
