@@ -20,7 +20,7 @@ A recreation of Scarlet Monastery for WOW Alpha (Upgraded for Mythic)
 | 601012 | Scarlet Hunter | X |
 | 601013 | Scarlet Interrogator | X |
 | 601014 | Scarlet Invoker | X |
-| 601015 | Scarlet Judge |
+| 601015 | Scarlet Judge | X |
 | 601016 | Scarlet Knight |
 | 601017 | Scarlet Mage |
 | 601018 | Scarlet Magus |
