@@ -47,3 +47,10 @@ INSERT INTO `smart_scripts` (`entryorguid`, `source_type`, `id`, `link`, `event_
 (601007, 0, 4, 0, 106, 0, 100, 0, 9000, 14000, 9000, 14000, 0, 10, 11, 75413, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 'Scarlet Diviner - On Hostile in Range - Cast \'Flame Wave\''),
 (601007, 0, 5, 0, 0, 0, 100, 0, 3000, 9000, 12000, 18000, 0, 0, 11, 11981, 256, 0, 0, 0, 0, 5, 30, 0, 1, 0, 0, 0, 0, 0, 'Scarlet Diviner - In Combat - Cast \'Mana Burn\''),
 (601007, 0, 6, 0, 2, 0, 100, 1, 0, 15, 0, 0, 0, 0, 25, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'Scarlet Diviner - Between 0-15% Health - Flee For Assist (No Repeat)');
+
+DELETE FROM `creature_text` WHERE (`CreatureID` = 601007);
+INSERT INTO `creature_text` (`CreatureID`, `GroupID`, `ID`, `Text`, `Type`, `Language`, `Probability`, `Emote`, `Duration`, `Sound`, `BroadcastTextId`, `TextRange`, `comment`) VALUES
+(601007, 0, 0, 'You carry the taint of the Scourge. Prepare to enter the Twisting Nether.', 12, 7, 100, 0, 0, 0, 0, 0, 'Scarlet Diviner'),
+(601007, 0, 1, 'There is no escape for you. The Crusade shall destroy all who carry the Scourge\'s taint.', 12, 7, 100, 0, 0, 0, 0, 0, 'Scarlet Diviner'),
+(601007, 0, 2, 'The Light condemns all who harbor evil. Now you will die!', 12, 7, 100, 0, 0, 0, 0, 0, 'Scarlet Diviner'),
+(601007, 0, 3, 'The Scarlet Crusade shall smite the wicked and drive evil from these lands!', 12, 7, 100, 0, 0, 0, 2628, 0, 'Scarlet Diviner');
