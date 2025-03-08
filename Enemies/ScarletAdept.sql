@@ -33,3 +33,4 @@ INSERT INTO `smart_scripts` (`entryorguid`, `source_type`, `id`, `link`, `event_
 (601000, 0, 2, 0, 0, 0, 100, 0, 0, 1000, 2500, 3500, 0, 0, 11, 67674, 64, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 'Scarlet Adept - In Combat - Cast \'Holy Smite\''),
 (601000, 0, 3, 0, 14, 0, 100, 0, 600, 40, 6000, 6000, 0, 0, 11, 6063, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 'Scarlet Adept - Friendly At 600 Health - Cast \'Heal\''),
 (601000, 0, 4, 0, 2, 0, 100, 1, 0, 15, 0, 0, 0, 0, 25, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'Scarlet Adept - Between 0-15% Health - Flee For Assist (No Repeat)');
+
