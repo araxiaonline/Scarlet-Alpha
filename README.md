@@ -30,7 +30,7 @@ A recreation of Scarlet Monastery for WOW Alpha (Upgraded for Mythic)
 | 602022 | Scarlet Scryer | X |
 | 602023 | Scarlet Sentry | X |
 | 602024 | Scarlet Soldier | X |
-| 602025 | Scarlet Sorcerer | |
+| 602025 | Scarlet Sorcerer | X |
 | 602026 | Scarlet Torturer | |
 | 602027 | Unfettered Spirit | |
 | 602028 | Scarlet Wizard | |
