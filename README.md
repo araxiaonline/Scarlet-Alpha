@@ -35,8 +35,8 @@ A recreation of Scarlet Monastery for WOW Alpha (Upgraded for Mythic)
 | 602027 | Unfettered Spirit | X |
 | 602028 | Scarlet Wizard | X |
 | 602029 | Houndmaster Loksey | X |
-| 602030 | Fallen Champion | |
-| 602031 | Herod | |
+| 602030 | Fallen Champion | X |
+| 602031 | Herod | X |
 | 602032 | Interrogator Vishas | |
 | 602033 | Bloodmage Thalnos | |
 | 602034 | Scarlet Commander Morgraine | |
