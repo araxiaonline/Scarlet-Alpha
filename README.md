@@ -28,7 +28,7 @@ A recreation of Scarlet Monastery for WOW Alpha (Upgraded for Mythic)
 | 602020 | Scarlet Myrmidon | X |
 | 602021 | Scarlet Paladin | X |
 | 602022 | Scarlet Scryer | X |
-| 602023 | Scarlet Sentry | |
+| 602023 | Scarlet Sentry | X |
 | 602024 | Scarlet Soldier | |
 | 602025 | Scarlet Sorcerer | |
 | 602026 | Scarlet Torturer | |
