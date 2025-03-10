@@ -37,7 +37,7 @@ A recreation of Scarlet Monastery for WOW Alpha (Upgraded for Mythic)
 | 602029 | Houndmaster Loksey | X |
 | 602030 | Fallen Champion | X |
 | 602031 | Herod | X |
-| 602032 | Interrogator Vishas | |
+| 602032 | Interrogator Vishas | X |
 | 602033 | Bloodmage Thalnos | |
 | 602034 | Scarlet Commander Morgraine | |
 | 602035 | High Inquisitor Whitemane | |
