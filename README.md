@@ -32,7 +32,7 @@ A recreation of Scarlet Monastery for WOW Alpha (Upgraded for Mythic)
 | 602024 | Scarlet Soldier | X |
 | 602025 | Scarlet Sorcerer | X |
 | 602026 | Scarlet Torturer | X |
-| 602027 | Unfettered Spirit | |
+| 602027 | Unfettered Spirit | X |
 | 602028 | Scarlet Wizard | |
 | 602029 | Houndmaster Loksey | |
 | 602030 | Fallen Champion | |
